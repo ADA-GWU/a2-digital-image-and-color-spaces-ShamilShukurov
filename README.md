@@ -1,7 +1,6 @@
 #
 ## Exercise 1
-From the displayed images, you can visually compare the results:
-1. Luminosity Method: Generally yields a more visually accurate grayscale representation as it adjusts for human perception.
+1. Luminosity Method: This uses the coefficients 0.2989 for Red, 0.5870 for Green, and 0.1140 for Blue, which takes into account the human eye's sensitivity to these colors. Generally yields a more visually accurate grayscale representation as it adjusts for human perception.
 2. Average Method: Tends to produce a slightly washed-out or less contrasted image since it doesn't consider the varying sensitivity of human vision to different colors.
 ![grayscale](https://github.com/ADA-GWU/a2-digital-image-and-color-spaces-ShamilShukurov/assets/81254972/26955f5a-a2a0-4e33-8590-1dc88bdbb67e)
 
